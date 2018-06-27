@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yuxu/Desktop/demo/EditDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+            "map": [
+                {
+                    "source": "/Users/yuxu/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/1aa0b693d6f1b7d9243f8aecad0522a1/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

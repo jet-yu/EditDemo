@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9a2b6036d603c877ac16f247f8b29bf214df5b85">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68d1e489de36ec79137c781a47575a30bb3e4968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/12063dc870523b341bac2f2818feccfd340100d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7ac3be1f0e4590a5d6dcd29a3c1e2a4e80f6ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f494ffc41786697ca4395d786646bf98df7e8c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/8f427749af4af36a4633beb60892f6e8543104a2/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_14458f29f37e4309b6d64b80d9dc16866ccad71e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/e4921aee000a9dec627cace2154918b48113138b/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_91bc77d3597f8ff26a98f946f54161a5e4a47a47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/8f427749af4af36a4633beb60892f6e8543104a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18a3276f74cc1007f1e312dd20a6c204a0921b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/022e7a67c51a0f91dfe19af7c6d8d1f2058a65ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_296cc667e0ae9f502f1f9330bd309a1f76e169f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/022e7a67c51a0f91dfe19af7c6d8d1f2058a65ea/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8515a6296a8b5c68320c63ea0b6238bb930eb6fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/AndroidStudioHome/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_8b2da834a8a1b48332a38c66cffc4de044c33428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/12063dc870523b341bac2f2818feccfd340100d5/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b1095d7b3341b231b547451084c8e99a27c9ed47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/e4921aee000a9dec627cace2154918b48113138b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_410c10a063c03b88e7e270c826a453ed439a2bc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/03d84ff212cd4f3519d3848ceb1426ff0bfadf04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9946b5aa03c5b856e823d5581299371c23761606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/383be21bb1b905b37ab3ae77b80c68ec32e821fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45dff1a412f3e45ea690ee721aab4125cfad0fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xu.yu/.android/build-cache/383be21bb1b905b37ab3ae77b80c68ec32e821fd/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6a3c77c1a8cdd39cb3f37d4335522ae1dc152931/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Tue Jan 02 12:03:20 CST 2018
+base.0=/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

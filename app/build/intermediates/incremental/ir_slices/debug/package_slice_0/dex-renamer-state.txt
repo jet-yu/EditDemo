@@ -1,0 +1,4 @@
+#Wed Jun 27 14:23:05 CST 2018
+base.0=/Users/yuxu/Desktop/demo/EditDemo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

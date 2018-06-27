@@ -1,0 +1,7 @@
+#Tue Jan 02 12:03:21 CST 2018
+base.0=/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68d1e489de36ec79137c781a47575a30bb3e4968
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f494ffc41786697ca4395d786646bf98df7e8c24/classes.dex
+base.1=/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f494ffc41786697ca4395d786646bf98df7e8c24
+file.0=/Users/xu.yu/Desktop/EditDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68d1e489de36ec79137c781a47575a30bb3e4968/classes.dex
